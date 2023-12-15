@@ -1,0 +1,63 @@
+Resume
+
+working on
+IDE - visual studio
+Framework - Asp dotnet (4.7) , Asp dotnet core(3.1)  and ASP dotnet WEB API ,
+Working on Razor pages ,HTML , CSS , Javascript and Utilized AJAX for asynchronous functionalities..
+Working on  SQL operation and developed SQL stored procedure , triggers on MS sql 2012
+Working on Agile/Scrum flow of software development 
+Working on Service-repository pattern for Webpage development.
+Working on various parts of the development like Payment Integration with ACI Worldwide.
+Working of Windows service to perform the Webhooks automatically on timer based and perform hidden operations.
+
+1)Working in Visual studio 2019 on developing web pages in c#.
+
+
+
+Working on Jquery datatable and Boostrap datatable for data list manipulation.
+working with various plugins integration and package for various functional operations like Identity proof verifications, Bulk pdf download,
+uploading the Sheet and Read and Write operations dynamically.
+
+Working with CRUD operation with Sql as a database and ASP dot net as a server side on razor page.
+working on session storage, Local Session storage and cache for Log-In and Log-out functionalities.
+working on Adobe Acrobet for PDF Creation and Editing process.
+working with Entity framework(EF) and Dapper for Database connection with the server side.
+Implemenating Oops concept to improve code readability and reusability by defining a Java program efficiently.
+Perform the Security testing with Burp suite (proxy).
+Working with Hashing algorithm for handling Sessitive data's.
+
+Having knowlwdge on,
+Redis cache
+Kafka-Distributed database structure
+Cloudfare -DDOS attack
+Burp suite - Intruder, Repeater
+API - authorization and Authentication
+Hashing algorithm - encrypted data for sensitive data'sensitive
+Visual Code
+Vue 2.0 and 3.0 - basic elements and functionalities.
+Fresher handling, team coordinator ,Problem-solving ,Collaboration and Build relationships.
+work based on quality based not on Time based.
+Working on MVC pattern in web development
+Working in LINQ for database connectivity 
+Working in MVC architectural pattern in three tier architecture using EF and Linq for database connectivity.
+M-model (logic tier or middle tier).
+V-View (presantation layer- user interface and communication layer)
+C-Controller (data tier, sometimes called database tier, data access tier or back-end , handle user inputs and redirection )
+3 layer ( MVC ) architecture
+3 tier ( web server, application server,database server )
+Using GIT for development integrations.
+Developing dynamic web page and implemented and creatively implemented design 
+requirements using client side scripting language and technologies.
+Performed client side and server-side validations in MVC razor using jquery and ajax.
+Used Asp.Net MVC framework to support the use of dependency injection to inject objects into a class, instead of 
+relying on the class to create the object itself.
+Working in PostMan for API calling method.
+Third-party software integration.
+Veriff - Third-party Idnetity Verification tool
+Opentelemetry - Instrumentation tool for application performance monitoring 
+Using Prometheus and Jaeger for Intrumentation performance Visualization
+
+
+
+
+
